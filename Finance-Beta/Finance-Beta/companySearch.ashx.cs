@@ -18,17 +18,6 @@ namespace Finance_Beta
 
         public void ProcessRequest(HttpContext context)
         {
-            /*
-            List<string> customers = new List<string>();
-            customers.Add("Anna");
-            customers.Add("Hessu");
-            customers.Add("Elsa");
-            customers.Add("Mikki");
-            customers.Add("Aku");
-            context.Response.Write(new JavaScriptSerializer().Serialize(customers));
-            */
-
-
 
             string term = context.Request["term"] ?? "";
             List<object> company = new List<object>();
