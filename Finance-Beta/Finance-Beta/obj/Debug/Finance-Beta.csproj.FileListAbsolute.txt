@@ -1,0 +1,66 @@
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\ApplicationInsights.config
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Finance-Beta.dll.config
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Finance-Beta.dll
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Finance-Beta.pdb
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.Web.dll
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\MySql.Data.dll
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Newtonsoft.Json.dll
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.Web.xml
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\MySql.Data.xml
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Newtonsoft.Json.xml
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\obj\Debug\Finance-Beta.dll
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\obj\Debug\Finance-Beta.pdb
+C:\Users\Jones\Documents\GitHub\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\obj\Debug\Finance-Beta.csprojResolveAssemblyReference.cache
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\ApplicationInsights.config
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Finance-Beta.dll.config
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Finance-Beta.dll
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Finance-Beta.pdb
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.Web.dll
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Newtonsoft.Json.dll
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.Web.xml
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\MySql.Data.xml
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Newtonsoft.Json.xml
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\obj\Debug\Finance-Beta.csprojResolveAssemblyReference.cache
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\obj\Debug\Finance-Beta.dll
+C:\Users\Peltex Oy\Git\aspNet-harjoitustyo-YahooFinance-stock-market\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\obj\Debug\Finance-Beta.pdb
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\ApplicationInsights.config
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Finance-Beta.dll.config
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Finance-Beta.dll
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Finance-Beta.pdb
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.Web.dll
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Newtonsoft.Json.dll
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.Web.xml
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Newtonsoft.Json.xml
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\obj\Debug\Finance-Beta.dll
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\obj\Debug\Finance-Beta.pdb
+C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\obj\Debug\Finance-Beta.csprojResolveAssemblyReference.cache

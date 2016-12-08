@@ -1,0 +1,8 @@
+﻿Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s, IFormatProvider provider)
+   at Finance_Beta.Quotes..ctor(String sy, Int32 months) in C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\App_Code\Quotes.cs:line 43
+Date :08/12/2016 03:26:50
+
+-----------------------------------------------------------------------------
+
