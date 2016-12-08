@@ -63,4 +63,3 @@ C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\F
 C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\bin\Newtonsoft.Json.xml
 C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\obj\Debug\Finance-Beta.dll
 C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\obj\Debug\Finance-Beta.pdb
-C:\Users\Joonas\Documents\Github\aspNet-harjoitustyo-YahooFinance-stock-market\Finance-Beta\Finance-Beta\obj\Debug\Finance-Beta.csprojResolveAssemblyReference.cache

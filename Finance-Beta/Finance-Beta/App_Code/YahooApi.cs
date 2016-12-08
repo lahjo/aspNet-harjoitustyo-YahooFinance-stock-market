@@ -45,7 +45,7 @@ namespace Finance_Beta
                 };
 
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
                     string filePath = HttpContext.Current.Server.MapPath("~/App_Data/log.txt");
 
